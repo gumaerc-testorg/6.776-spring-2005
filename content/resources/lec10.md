@@ -8,8 +8,13 @@ description: 'Lecture presentation covering the following topics: noise modeling
   for noise analysis, Thevenin techniques, drain noise multiplying factor, broadband
   amplifier design considerations, narrowband amplifier noise requirements, and achieving
   minimum noise factor.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-776-high-speed-communication-circuits-spring-2005/f84805c3059b889d31b7c8c2fff86030_lec10.pdf
+file: /media/courses/6-776-high-speed-communication-circuits-spring-2005/f84805c3059b889d31b7c8c2fff86030_lec10.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec10.pdf
 uid: f84805c3-059b-889d-31b7-c8c2fff86030
