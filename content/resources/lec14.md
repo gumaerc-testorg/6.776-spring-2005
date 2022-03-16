@@ -9,8 +9,13 @@ description: 'Lecture presentation covering the following topics: VCO design for
   square wave oscillation, colpitts oscillator, simplified model of colpitts, clapp
   oscillator, Hartley oscillator, integrated resonator structures, quarter wave resonator,
   and other types of resonators.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-776-high-speed-communication-circuits-spring-2005/09efd8ee8026e7e72a53d1fb5117a2d3_lec14.pdf
+file: /media/courses/6-776-high-speed-communication-circuits-spring-2005/09efd8ee8026e7e72a53d1fb5117a2d3_lec14.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec14.pdf
 uid: 09efd8ee-8026-e7e7-2a53-d1fb5117a2d3

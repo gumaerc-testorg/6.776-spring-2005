@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 title: Labs
 uid: 3628204c-86d0-b8ed-62f5-928b9fd6503c
 ---
@@ -25,7 +28,7 @@ We have ordered additional transistors and variable capacitors, in addition to v
 
 J310 Spice Model ([SCS](/courses/electrical-engineering-and-computer-science/6-776-high-speed-communication-circuits-spring-2005/labs/jfet.scs))
 
-The J310 Spice model above is compatible with Spectre. This model may or may not be accurate as there are many different manufacturers of J310 transistors and there may be considerable variability in the transistor operating characteristics from lot to lot as well as part to part. I have tweaked the value of the threshold voltage, VTO, in the model based on DC measurements performed on **one** of the transistors. You are encouraged to verify and modify the model, as needed, by comparing simulation results to measured DC characteristics of your specific device. For example, the model currently does not model output conductance. You will want to either measure gds, or find its value from the datasheets at your operating point. Transconductance is another important DC device characteristic you should verify.
+The J310 Spice model above is compatible with Spectre. This model may or may not be accurate as there are many different manufacturers of J310 transistors and there may be considerable variability in the transistor operating characteristics from lot to lot as well as part to part. I have tweaked the value of the threshold voltage, VTO, in the model based on DC measurements performed on **one** of the transistors. You are encouraged to verify and modify the model, as needed, by comparing simulation results to measured DC characteristics of your specific device. For example, the model currently does not model output conductance. You will want to either measure g{{< sub "ds" >}}, or find its value from the datasheets at your operating point. Transconductance is another important DC device characteristic you should verify.
 
 In order to use the model, copy the model file, jfet.scs, to your MIT server account. Then,
 

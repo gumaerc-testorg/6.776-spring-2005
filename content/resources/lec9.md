@@ -6,8 +6,13 @@ description: 'Lecture presentation covering the following topics: Shunt-Series P
   Increasing Gain-Bandwidth Product Through Cascading, Analytical derivation of overall
   Bandwidth, Transfer Function for Cascaded Sections, distributing the Input and Output
   Capacitance, different types of Amplifiers, generators and SAW Filters etc.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-776-high-speed-communication-circuits-spring-2005/3e9c40e70c1fc4964f16372c7572daf1_lec9.pdf
+file: /media/courses/6-776-high-speed-communication-circuits-spring-2005/3e9c40e70c1fc4964f16372c7572daf1_lec9.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec9.pdf
 uid: 3e9c40e7-0c1f-c496-4f16-372c7572daf1

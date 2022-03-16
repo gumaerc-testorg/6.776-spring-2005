@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: f37aa8c0-8f4e-902f-c366-474bab3f974f
 ---
@@ -35,7 +38,7 @@ ValueS
 Power Supply
 {{< tdclose >}}
 {{< tdopen >}}
-Single < 1.8 V
+Single \< 1.8 V
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -80,7 +83,7 @@ Power Efficiency
 RF Input Power
 {{< tdclose >}}
 {{< tdopen >}}
-< 20mW
+\< 20mW
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -89,7 +92,7 @@ RF Input Power
 Distortion
 {{< tdclose >}}
 {{< tdopen >}}
-< -30dBc
+\< -30dBc
 {{< tdclose >}}
 
 {{< trclose >}}
