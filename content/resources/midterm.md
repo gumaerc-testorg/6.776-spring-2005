@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 16ed10b2-ad2e-9942-ec11-7fdca3f3a7b2
 resourcetype: Document
 title: midterm.pdf
 uid: 7eff6c75-8da4-8137-c21e-66da0a61affc

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: b7dd6c18-f505-1ef6-146c-2b2d005189a4
 resourcetype: Document
 title: spectre_tutorial.pdf
 uid: ff57be4a-5893-e79d-bd91-96bc1982029b
