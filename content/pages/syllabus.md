@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: The syllabus provides information on course staff, textbook, course format,
+  prerequisites, and resources/policies.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: c68f39e4-809f-e8f2-0dfb-4e1e10431fb7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -93,7 +99,7 @@ Homework
 Prerequisites
 ----------------
 
-[6.301: Solid-State Circuits](/courses/6-301-solid-state-circuits-fall-2010/) (or equivalent)
+[6.301: Solid-State Circuits](/courses/6-301-solid-state-circuits-fall-2010) (or equivalent)
 
 Resources/Policies
 ------------------

@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: The projects section provides information on final project assignment
+  - RF power amplifier design.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
 title: Projects
 uid: f37aa8c0-8f4e-902f-c366-474bab3f974f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Final Project Assignment - RF Power Amplifier Design
