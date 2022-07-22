@@ -8,6 +8,7 @@ file: /courses/6-776-high-speed-communication-circuits-spring-2005/3062402693706
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture presentation covering the following topics: Transceivers for amplitude modulation, amplitude modulation review, Amplitude Modulation: Switching Modulator, Amplitude Modulation ? Gilbert Multiplier, DSB Transmitter: Balanced Modulator, SSB Transmitter I etc.
-

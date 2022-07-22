@@ -5,6 +5,7 @@ file: /courses/6-776-high-speed-communication-circuits-spring-2005/a398dbb02c49a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains 4 problems and a reading assignment.
-

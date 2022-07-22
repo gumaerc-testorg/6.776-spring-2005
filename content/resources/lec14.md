@@ -13,6 +13,7 @@ file: /courses/6-776-high-speed-communication-circuits-spring-2005/09efd8ee8026e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -26,4 +27,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture presentation covering the following topics: VCO design for narrowband wireless systems, VCO design for broadband high speed data links, VCO structures, Barkhausen's criteria for oscillation, ring oscillators, resonator-based oscillator, amplitude feedback loop, leveraging amplifier nonlinearity as feedback, amplifier nonlinearity as amplitude control, one-port view of resonator-based oscillators, parallel RLC network, negative resistance oscillator, Max. sinusoidal oscillation, square wave oscillation, colpitts oscillator, simplified model of colpitts, clapp oscillator, Hartley oscillator, integrated resonator structures, quarter wave resonator, and other types of resonators.
-

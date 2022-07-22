@@ -9,6 +9,7 @@ file: /courses/6-776-high-speed-communication-circuits-spring-2005/6e414dbc7052c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -22,4 +23,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture presentation covering the following topics: Issue of and Analytical Device Modeling in Velocity Saturation, how we design the Amplifier, how do we chose Ibias For High Bandwidth, Miller Effect on Cgd, Reduction of Cgd Impact using a Cascode Device, Source-Coupled Amplifier, Neutralization and different types of Amplifiers.
-

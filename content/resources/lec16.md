@@ -8,6 +8,7 @@ file: /courses/6-776-high-speed-communication-circuits-spring-2005/abdc7a7dbbade
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture presentation covering the following topics: Image Reject Mixer, Review, Overall Mixer Architecture ?Use I/Q Demodulation, Mixer Single-Sideband (SSB) Noise Figure, A Practical Issue ?Square Wave LO Oscillator Signals, Associated Frequency Transforms, Voltage Conversion Gain, Transconductor Implementation etc.
-

@@ -4,6 +4,7 @@ description: This resource contains an introduction to Cadence and SpectreRF too
 file: /courses/6-776-high-speed-communication-circuits-spring-2005/ff57be4a5893e79dbd9196bc1982029b_spectre_tutorial.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains an introduction to Cadence and SpectreRF tools.
-

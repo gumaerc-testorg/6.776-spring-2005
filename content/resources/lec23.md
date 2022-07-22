@@ -7,6 +7,7 @@ file: /courses/6-776-high-speed-communication-circuits-spring-2005/e7446cea313a9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains description of: outline of pLL lectures, Design of frequency synthesizers, Frequency-domain model, closed loop design approach: implementation, and Guidelines for active loop filter design.
-

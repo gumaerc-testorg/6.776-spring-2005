@@ -10,6 +10,7 @@ file: /courses/6-776-high-speed-communication-circuits-spring-2005/3e9c40e70c1fc
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -23,4 +24,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture presentation covering the following topics: Shunt-Series Peaking, T-Coil Bandwidth Enhancement, Bandwidth Enhancement With ftDoublers, how to create Single-Ended Output, Bias for M2, Problems of ft Doubler in Modern CMOS RF Circuits, Increasing Gain-Bandwidth Product Through Cascading, Analytical derivation of overall Bandwidth, Transfer Function for Cascaded Sections, distributing the Input and Output Capacitance, different types of Amplifiers, generators and SAW Filters etc.
-

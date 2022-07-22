@@ -4,6 +4,7 @@ description: The Smith Chart for use in the course.
 file: /courses/6-776-high-speed-communication-circuits-spring-2005/7e0b72e4d8df26cad47583fa2a2bc031_imp_ad_smithchar.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 The Smith Chart for use in the course.
-

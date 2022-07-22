@@ -8,6 +8,7 @@ file: /courses/6-776-high-speed-communication-circuits-spring-2005/05126e43ce52f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture presentation covering the following topics: Maxwell?s Equations, solutions, Curl Operations in Maxwell?s Formula, Freespace Values, Voltage and Current, Parallel Plate Waveguide, Current and H-Field, Voltage and E-Field, Wave Equation for Transmission Line etc.
-

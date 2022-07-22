@@ -5,6 +5,7 @@ file: /courses/6-776-high-speed-communication-circuits-spring-2005/b4a66d5ccae64
 file_type: application/msword
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

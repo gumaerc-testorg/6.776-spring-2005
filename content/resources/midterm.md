@@ -6,6 +6,7 @@ file: /courses/6-776-high-speed-communication-circuits-spring-2005/7eff6c758da48
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains 3 problems to calculate voltage in differnt types of electric circuits for mid-term exam.
-

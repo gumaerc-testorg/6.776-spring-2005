@@ -11,6 +11,7 @@ file: /courses/6-776-high-speed-communication-circuits-spring-2005/38ea1be098250
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -24,4 +25,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture presentation covering the following topics: Noise factor and noise figure, alternative noise factor expression, Thevenin computation model for noise, input referred noise model, calculation of noise factor, optimizing for noise figure versus power transfer, comparison of noise figure and power match, noise factor with transformer set for max power transfer, observations, nonlinearities in amplifiers, harmonic distortion, intermodulation products, two tone test, and impact of differential amplifiers on nonlinearity.
-
