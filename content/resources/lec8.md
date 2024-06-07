@@ -6,6 +6,7 @@ description: 'Lecture presentation covering the following topics: Issue of and A
   Cascode Device, Source-Coupled Amplifier, Neutralization and different types of
   Amplifiers.'
 file: /courses/6-776-high-speed-communication-circuits-spring-2005/6e414dbc7052cda18a7b4f76fd566ced_lec8.pdf
+file_size: 540724
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
