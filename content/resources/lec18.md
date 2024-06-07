@@ -5,6 +5,7 @@ description: 'Lecture presentation covering the following topics: Resistor loade
   current waveforms, power efficiency calculation, Class B Power amplifier, Conduction
   Angle vs. Class, Push-Pull Amplifier, Class C Amplifier etc.'
 file: /courses/6-776-high-speed-communication-circuits-spring-2005/bbcfb779761e9189194393e185121cd5_lec18.pdf
+file_size: 447902
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -5,6 +5,7 @@ description: 'Lecture presentation covering the following topics: Image Reject M
   (SSB) Noise Figure, A Practical Issue ?Square Wave LO Oscillator Signals, Associated
   Frequency Transforms, Voltage Conversion Gain, Transconductor Implementation etc.'
 file: /courses/6-776-high-speed-communication-circuits-spring-2005/abdc7a7dbbadee52a8f2d77b38c920c4_lec16.pdf
+file_size: 719617
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -10,6 +10,7 @@ description: 'Lecture presentation covering the following topics: VCO design for
   oscillator, Hartley oscillator, integrated resonator structures, quarter wave resonator,
   and other types of resonators.'
 file: /courses/6-776-high-speed-communication-circuits-spring-2005/09efd8ee8026e7e72a53d1fb5117a2d3_lec14.pdf
+file_size: 386137
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

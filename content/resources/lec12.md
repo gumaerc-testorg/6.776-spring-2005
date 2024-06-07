@@ -4,6 +4,7 @@ description: 'Lecture presentation covering the following topics: Designing for 
   noise figure, achieving a good power match, hints at getting good IIP3, impact of
   power dissipation on design, and tradeoff in gain versus bandwidth.'
 file: /courses/6-776-high-speed-communication-circuits-spring-2005/2c7a97621d644036cfed2edbcfb833ad_lec12.pdf
+file_size: 691456
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

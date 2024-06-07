@@ -5,6 +5,7 @@ description: 'Lecture presentation covering the following topics: Phase-Locked L
   synthesizer, Fractional-N Frequency Synthesis, accumulator operation, The issue
   of spurious tone, The phase interpolation technique etc.'
 file: /courses/6-776-high-speed-communication-circuits-spring-2005/9259f09cec66b687e4b7e21461f1626e_lec21.pdf
+file_size: 1005004
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

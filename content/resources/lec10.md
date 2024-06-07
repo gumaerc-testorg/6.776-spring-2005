@@ -9,6 +9,7 @@ description: 'Lecture presentation covering the following topics: noise modeling
   amplifier design considerations, narrowband amplifier noise requirements, and achieving
   minimum noise factor.'
 file: /courses/6-776-high-speed-communication-circuits-spring-2005/f84805c3059b889d31b7c8c2fff86030_lec10.pdf
+file_size: 875762
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

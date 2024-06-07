@@ -5,6 +5,7 @@ description: 'Lecture presentation covering the following topics: Transceivers f
   Modulator, Amplitude Modulation ? Gilbert Multiplier, DSB Transmitter: Balanced
   Modulator, SSB Transmitter I etc.'
 file: /courses/6-776-high-speed-communication-circuits-spring-2005/30624026937064d06c6438a7a2b5197a_lec2.pdf
+file_size: 471726
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -4,6 +4,7 @@ description: 'This resource contains description of: outline of pLL lectures, De
   of frequency synthesizers, Frequency-domain model, closed loop design approach:
   implementation, and Guidelines for active loop filter design.'
 file: /courses/6-776-high-speed-communication-circuits-spring-2005/e7446cea313a9d36ed8ff44ccf34ebd6_lec23.pdf
+file_size: 2553130
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
