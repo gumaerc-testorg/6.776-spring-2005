@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains a model of a transistor.
 file: /courses/6-776-high-speed-communication-circuits-spring-2005/78984821a1ad05ac6333283874019730_jfet.scs
+file_size: 157
 file_type: text/plain
 learning_resource_types:
 - Labs

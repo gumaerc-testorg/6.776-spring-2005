@@ -5,6 +5,7 @@ description: 'Lecture presentation covering the following topics: High Frequency
   Effect, Transfer Function of CMOS Inverter, Shunt-Series, Resistor Loaded and NMOS
   Load Amplifier, OCT?s for CS Amplifier etc.'
 file: /courses/6-776-high-speed-communication-circuits-spring-2005/3ebeaaf8fbb23e6ed5db7ede599ecc0d_lec7.pdf
+file_size: 306506
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -6,6 +6,7 @@ description: 'Lecture presentation covering the following topics: VCO noise in w
   intrinsic phase noise in oscillators, output phase noise spectrum (Leeson?s Formula)
   etc.'
 file: /courses/6-776-high-speed-communication-circuits-spring-2005/78bd1d48fc61cbe01ce48035f0174875_lec17.pdf
+file_size: 1608546
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

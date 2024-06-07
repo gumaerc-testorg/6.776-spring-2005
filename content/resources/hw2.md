@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains 4 problems and a reading assignment.
 file: /courses/6-776-high-speed-communication-circuits-spring-2005/a398dbb02c49ac3c1d30711d78dfd7d6_hw2.pdf
+file_size: 84776
 file_type: application/pdf
 learning_resource_types:
 - Assignments
