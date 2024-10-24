@@ -7,7 +7,7 @@ description: 'Lecture presentation covering the following topics: Noise factor a
   factor with transformer set for max power transfer, observations, nonlinearities
   in amplifiers, harmonic distortion, intermodulation products, two tone test, and
   impact of differential amplifiers on nonlinearity.'
-file: /courses/6-776-high-speed-communication-circuits-spring-2005/38ea1be09825024cd20eb09a0d5703d0_lec11.pdf
+file: /ol-ocw-studio-app/courses/6-776-high-speed-communication-circuits-spring-2005/38ea1be09825024cd20eb09a0d5703d0_lec11.pdf
 file_size: 625227
 file_type: application/pdf
 learning_resource_types:
