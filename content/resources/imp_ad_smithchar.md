@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The Smith Chart for use in the course.
-file: /ol-ocw-studio-app/courses/6-776-high-speed-communication-circuits-spring-2005/7e0b72e4d8df26cad47583fa2a2bc031_imp_ad_smithchar.pdf
+file: /courses/6-776-high-speed-communication-circuits-spring-2005/7e0b72e4d8df26cad47583fa2a2bc031_imp_ad_smithchar.pdf
 file_size: 83424
 file_type: application/pdf
 learning_resource_types: []

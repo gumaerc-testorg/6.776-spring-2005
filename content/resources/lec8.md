@@ -5,7 +5,7 @@ description: 'Lecture presentation covering the following topics: Issue of and A
   Ibias For High Bandwidth, Miller Effect on Cgd, Reduction of Cgd Impact using a
   Cascode Device, Source-Coupled Amplifier, Neutralization and different types of
   Amplifiers.'
-file: /ol-ocw-studio-app/courses/6-776-high-speed-communication-circuits-spring-2005/6e414dbc7052cda18a7b4f76fd566ced_lec8.pdf
+file: /courses/6-776-high-speed-communication-circuits-spring-2005/6e414dbc7052cda18a7b4f76fd566ced_lec8.pdf
 file_size: 540724
 file_type: application/pdf
 learning_resource_types:

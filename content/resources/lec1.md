@@ -3,7 +3,7 @@ content_type: resource
 description: 'Lecture presentation covering the following topics: modulation techniques
   including amplitude modulation, constant envelope, modulation multiple access, and
   ultra wide band.'
-file: /ol-ocw-studio-app/courses/6-776-high-speed-communication-circuits-spring-2005/33315df81345b772b4100897ea80454d_lec1.pdf
+file: /courses/6-776-high-speed-communication-circuits-spring-2005/33315df81345b772b4100897ea80454d_lec1.pdf
 file_size: 688447
 file_type: application/pdf
 learning_resource_types:

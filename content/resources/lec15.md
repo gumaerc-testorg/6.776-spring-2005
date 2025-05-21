@@ -6,7 +6,7 @@ description: 'Lecture presentation covering the following topics: Voltage contro
   version, the MOS varactor, injection locking in oscillators, recent VCO techniques,
   circular oscillator implementation, die photo and measured results, circular standing
   wave oscillator, ring transmission line principle, and mixers.'
-file: /ol-ocw-studio-app/courses/6-776-high-speed-communication-circuits-spring-2005/d842102e324c49e1a06a053fc7edf589_lec15.pdf
+file: /courses/6-776-high-speed-communication-circuits-spring-2005/d842102e324c49e1a06a053fc7edf589_lec15.pdf
 file_size: 453750
 file_type: application/pdf
 learning_resource_types:
