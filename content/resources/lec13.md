@@ -6,7 +6,7 @@ description: 'Lecture presentation covering the following topics: LNA design, bi
   differential LNA, broadband LNA design, resistor termination vs. resistor in feedback,
   recent CMOS LNA techniques, biasing for LNA, Gm boosting by a transformer, neutralizaton,
   and differential implementation.'
-file: /ol-ocw-studio-app/courses/6-776-high-speed-communication-circuits-spring-2005/44bd0f57a23365643b329df6566398a8_lec13.pdf
+file: /courses/6-776-high-speed-communication-circuits-spring-2005/44bd0f57a23365643b329df6566398a8_lec13.pdf
 file_size: 626845
 file_type: application/pdf
 learning_resource_types:

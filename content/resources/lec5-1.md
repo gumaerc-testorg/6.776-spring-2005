@@ -3,7 +3,7 @@ content_type: resource
 description: 'Lecture presentation covering the following topics: Reflection Coefficient,
   Voltage and Current Waveforms, Voltage Standing Wave Ratio, Impedance as a Function
   of Location etc.'
-file: /ol-ocw-studio-app/courses/6-776-high-speed-communication-circuits-spring-2005/88053e279b4db1af9a4986f27bd1bb72_lec5.pdf
+file: /courses/6-776-high-speed-communication-circuits-spring-2005/88053e279b4db1af9a4986f27bd1bb72_lec5.pdf
 file_size: 719602
 file_type: application/pdf
 learning_resource_types:

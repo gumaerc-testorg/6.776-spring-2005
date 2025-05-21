@@ -4,7 +4,7 @@ description: 'Lecture presentation covering the following topics: Maxwell?s Equa
   solutions, Curl Operations in Maxwell?s Formula, Freespace Values, Voltage and Current,
   Parallel Plate Waveguide, Current and H-Field, Voltage and E-Field, Wave Equation
   for Transmission Line etc.'
-file: /ol-ocw-studio-app/courses/6-776-high-speed-communication-circuits-spring-2005/05126e43ce52f3dc8ba9809b0692eadb_lec3.pdf
+file: /courses/6-776-high-speed-communication-circuits-spring-2005/05126e43ce52f3dc8ba9809b0692eadb_lec3.pdf
 file_size: 452022
 file_type: application/pdf
 learning_resource_types:
