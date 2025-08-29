@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains description on Integer-N Synthesizers, Noise in
   Integer-N and Fractional-N Synthesizers etc.
-file: /courses/6-776-high-speed-communication-circuits-spring-2005/2db46141dcd838bf67f8205b509e1db0_lec22.pdf
+file: /ol-ocw-studio-app/courses/6-776-high-speed-communication-circuits-spring-2005/2db46141dcd838bf67f8205b509e1db0_lec22.pdf
 file_size: 1028918
 file_type: application/pdf
 learning_resource_types:

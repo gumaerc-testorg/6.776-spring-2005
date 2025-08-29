@@ -3,7 +3,7 @@ content_type: page
 description: The lab section provides information on lab information sheet, J310 Spice
   Model, Noise Simulation, and Final Comments.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: 3628204c-86d0-b8ed-62f5-928b9fd6503c

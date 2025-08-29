@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains 3 problems and a reading assignment.
-file: /courses/6-776-high-speed-communication-circuits-spring-2005/7149b853454f4b496485bbb5a8b51e3d_hw1.pdf
+file: /ol-ocw-studio-app/courses/6-776-high-speed-communication-circuits-spring-2005/7149b853454f4b496485bbb5a8b51e3d_hw1.pdf
 file_size: 34386
 file_type: application/pdf
 learning_resource_types:
