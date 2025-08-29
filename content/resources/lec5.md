@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-776-high-speed-communication-circuits-spring-2005/b4a66d5ccae64497b06a84bf82a9e493_lec5.ppt
+file: /ol-ocw-studio-app/courses/6-776-high-speed-communication-circuits-spring-2005/b4a66d5ccae64497b06a84bf82a9e493_lec5.ppt
 file_size: 2444288
 file_type: application/msword
 learning_resource_types:
