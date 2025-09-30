@@ -24,9 +24,9 @@ The lab space has oscilloscopes, multimeters, and 5 V power supplies (on breadbo
 
 Three different components needed for this lab were handed out in class.
 
-1.  [ON Semiconductor J310 JFET](http://www.mouser.in/ProductDetail/ON-Semiconductor/J310/?qs=2OtswVQKCOFZIG%252bZq%252b4brw%3D%3D) 
-2.  [Sprague-Goodman GCL 20000 Variable Capacitor](https://www.digikey.com/product-detail/en/sprague-goodman/GCL20000/SG1035-ND/272119) (0.8 pF - 20 pF)
-3.  [Toko 294SN-T1013Z Tunable Inductor](https://www.datasheets360.com/part/detail/294sn-t1013z/8832527263395133785/) - Nominal value of 0.47 µH
+1.  {{% resource_link "8aa6b374-0a71-4767-b26a-d2ea2319bd25" "ON Semiconductor J310 JFET" %}} 
+2.  {{% resource_link "955c876c-5e9c-4dc7-b417-4e4c71be9ad7" "Sprague-Goodman GCL 20000 Variable Capacitor" %}} (0.8 pF - 20 pF)
+3.  {{% resource_link "ad9aeccc-3648-473a-8926-00bf60cf186b" "Toko 294SN-T1013Z Tunable Inductor" %}} - Nominal value of 0.47 µH
 
 We have ordered additional transistors and variable capacitors, in addition to various fixed inductors (0.047 µH, 0.1 µH, 0.33 µH, 0.56 µH). We also have 1 µH tunable inductors. These parts will be made available in the lab. One other note is that the tunable inductors have limited tuning range. We advise you to use the tunable inductors as fixed inductors, and rely on the variable capacitors to tune your amplifier.
 
