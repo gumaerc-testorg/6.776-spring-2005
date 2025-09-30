@@ -13,7 +13,7 @@ video_metadata:
   youtube_id: null
 ---
 
-This section provides a complete set of homework assignments for the course. Custom software used for the assignments is freely available [here](http://www-mtl.mit.edu/researchgroups/perrottgroup/tools.html).
+This section provides a complete set of homework assignments for the course. Custom software used for the assignments is freely available {{% resource_link "3cf4d7d1-f512-43cb-acc3-1c845c61c21e" "here" %}}.
 
 Assignment 1 ({{% resource_link 7149b853-454f-4b49-6485-bbb5a8b51e3d "PDF" %}})
 
